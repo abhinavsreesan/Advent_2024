@@ -8,8 +8,8 @@ Attempt to solve the Advent of Code 2024 puzzles using Python.
 - [x] Day 1
 - [x] Day 2
 - [x] Day 3
-- [ ] Day 4
-- [ ] Day 5
+- [X] Day 4
+- [X] Day 5
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
